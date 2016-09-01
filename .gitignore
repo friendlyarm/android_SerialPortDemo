@@ -7,6 +7,9 @@
 # Java class files
 *.class
 
+# apk
+/signapk-files/*.apk
+
 # Generated files
 bin/
 gen/
